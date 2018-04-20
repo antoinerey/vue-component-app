@@ -1,0 +1,51 @@
+{
+  "_from": "@antoinerey_/vue-component",
+  "_id": "@antoinerey_/vue-component@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Jnw7e6fTXhFYdkOLLAtEJirxGh78qM8XCI+uUUbF2mwjLPkLoTiP2uo30FFLmSYQbJK/ZkgK6XlAlrarDyj0Eg==",
+  "_location": "/@antoinerey_/vue-component",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@antoinerey_/vue-component",
+    "name": "@antoinerey_/vue-component",
+    "escapedName": "@antoinerey_%2fvue-component",
+    "scope": "@antoinerey_",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@antoinerey_/vue-component/-/vue-component-1.0.0.tgz",
+  "_shasum": "feb08a13dbdcb52670c834ee0563484dcfc93fe3",
+  "_spec": "@antoinerey_/vue-component",
+  "_where": "/Users/antoinerey/Code/vue-demo",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "starwars-names": "^1.6.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "rollup": "^0.58.1",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-node-resolve": "^3.0.3",
+    "rollup-plugin-vue": "^3.0.0",
+    "vue": "^2.5.16",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "@antoinerey_/vue-component",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "version": "1.0.0"
+}
